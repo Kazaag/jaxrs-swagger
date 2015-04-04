@@ -26,3 +26,5 @@ You can easily run it via Gradle in an embeded Jetty (Should work also in  Tomca
 ```
 ./gradlew jettyRunWar
 ```
+Go to http://localhost:8080/jaxrs-swagger/swagger.json or http://localhost:8080/jaxrs-swagger/swagger.yaml to
+access the service documentation.
